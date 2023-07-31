@@ -1,0 +1,11 @@
+https://pythonspot.com/python-database-programming-sqlite-tutorial/#:~:text=Python%20Database.%20Data%20is%20retrieved%20from%20a%20database,the%20database%20zoo.%20SQL%20is%20a%20special-purpose%20
+https://bytescout.com/blog/20-important-sql-queries.html?utm_referer=https%3A%2F%2Fwww.bing.com%2F#1
+http://www.niranjankala.in/post/sqlite-check-if-table-exists#:~:text=You%20execute%20the%20below%20command%20to%20check%20whether,then%20the%20result%20will%20be%200%20otherwise%201.
+https://www.javatpoint.com/python-sqlite#:~:text=Connect%20SQLite%20with%20Python%201%20Install%20Python.%20Press,5%20Insert%20Records.%20...%206%20Select%20Records.%20
+https://www.sqlite.org/datatype3.html
+https://www.tutorialspoint.com/sqlite/sqlite_select_query.htm
+https://www.tutlane.com/tutorial/sqlite/sqlite-auto-increment#:~:text=SQLite%20Auto%20Increment%20Property%20In%20SQLite%20if%20we,a%20new%20record%20or%20row%20in%20the%20table.
+https://www.tutorialspoint.com/sqlite/sqlite_python.htm
+https://www.geeksforgeeks.org/display-the-pandas-dataframe-in-table-style/#:~:text=Example%201%20%3A%20One%20way%20to%20display%20a,%5B83%2C%2099%2C%2084%2C%2076%5D%7D%20df%20%3D%20pd.DataFrame%20%28dict%29
+
+/mnt/c/Users/DELL/PycharmProjects/PyStorage
